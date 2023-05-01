@@ -3,3 +3,4 @@ gitの練習をはじめます。
 git add
 git commit
 git rm
+git status
